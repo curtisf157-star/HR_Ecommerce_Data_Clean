@@ -94,3 +94,9 @@ The dedupe orders by `Order_Date` **as a raw string**, not as a parsed date. Tha
 ---
 
 ## Project Structure
+---
+## Author
+
+**Curtis Ferdinand**
+- GitHub: [@curtisf157-star](https://github.com/curtisf157-star)
+- LinkedIn: [curtis-ferdinand](https://www.linkedin.com/in/curtis-ferdinand-a56232113)
